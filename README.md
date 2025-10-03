@@ -15,9 +15,9 @@ My academic path focuses not only on the technical side of cybersecurity, but al
 
 ## Technologies & Tools
 
-- **Languages:** Python, C, Bash, JavaScript, SQL  
-- **Security Tools:** Wireshark, Nmap  
-- **Frameworks & Platforms:** Linux, Git, GitHub Actions  
+- **Languages:** Python, C, Bash, JavaScript, SQL, Matlab  
+- **Security Tools:** Wireshark, Nmap, Xcode 
+- **Frameworks & Platforms:** Linux, Git
 
 ---
 
