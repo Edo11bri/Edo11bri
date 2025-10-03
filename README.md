@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Edoardo Brignone
 
-<!--
-**Edo11bri/Edo11bri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Master's student in **Cybersecurity Engineering** at the **Politecnico di Torino**.  
+My academic path focuses not only on the technical side of cybersecurity, but also on the **legal and regulatory framework**, as part of the *Cyber Legal and Compliance Officer* track.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Passionate about cybersecurity, network security, and the intersection between technology, law, and regulation  
+- Experienced in Python, C, JavaScript, and SQL  
+- Always eager to learn and improve my skills in both technical and legal aspects of cybersecurity
+
+---
+
+## Technologies & Tools
+
+- **Languages:** Python, C, Bash, JavaScript, SQL  
+- **Security Tools:** Wireshark, Nmap  
+- **Frameworks & Platforms:** Linux, Git, GitHub Actions  
+
+---
+
+## Featured Projects
+
+Here are some of my key projects:
+
+- [ML_DDoS](https://github.com/AlvaroSolana/ML_DDoS) – Project using AI to detect, classify, and analyze DDoS attacks  
+- [BoardNXP](https://github.com/Edo11bri/BoardNXP_Project) – Project to create and emulate an NXP board using QEMU to run simple FreeRTOS tasks  
+- [WebAPP](https://github.com/Edo11bri/WebApp-Project) – A simple web application project developed for a university exam
+
